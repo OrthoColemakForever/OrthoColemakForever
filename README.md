@@ -2,8 +2,10 @@
   <img src="assets/introduction.gif" width="100%" alt="header" />
 </div>
 
-<p align="center">
-    I'm passionate about <strong>ambient computing</strong> and love building projects that are as
+<br>
+
+<p>
+    &emsp;I'm passionate about <strong>ambient computing</strong> and love building projects that are as
     practical as they are elegant. I enjoy finding ways to infuse environments with AI magic and
     enhance experiences for everyday people. In all my work, my goal is to give users back the time
     and energy to spend on what they love. I'm always searching for new ideas, so feel
