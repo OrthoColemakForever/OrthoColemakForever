@@ -30,14 +30,10 @@
 
 ### 🛠️ What I'm building
 
-- 🍴 **SmartChef** — *in progress* — a recipe management and kitchen assistant tablet app.
+- 🍴 **Smartchef** — *in progress* — a recipe management and kitchen assistant tablet app.
   Recipes, substitutions, and cooking guidance all with the knowledge of a professional chef. Talk to your
   kitchen, hands stay on the food.
-- 🦌 **RangerVault** — *in progress* — a mobile wildlife identifier and Pokédex-style
-  collection app for National Park fauna. Snap a photo, identify creatures, level up, and track the parks
-  you've visited and the species you've encountered
+- 🧬  **Research** — *in progress* — machine learning for calculating biological age. Collaboration between LSU Math
+  Department and Pennington Biomedical Research Center in an effort to provide more efficient and effective patient care
 
-### 🔍 What else I've been up to
 
-- 🧬 Research: machine learning for biological-age calculation
-- 🏔️ Away from work: listening to The Hoop Collective and playing board games
